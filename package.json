@@ -1,0 +1,23 @@
+{
+  "name": "itHub-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anwenjuan/itHub-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anwenjuan/itHub-nodejs/issues"
+  },
+  "homepage": "https://github.com/anwenjuan/itHub-nodejs#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
